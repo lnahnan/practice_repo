@@ -75,6 +75,6 @@
     //the construct type
     type Desitination = any 
     type Occupation = any
-    type 
+   
   
 
